@@ -1,0 +1,7 @@
+C:\Users\Fredy\Desktop\Clases Virtules\MultiPoliArray\MultiPoliArray\obj\Debug\MultiPoliArray.csproj.AssemblyReference.cache
+C:\Users\Fredy\Desktop\Clases Virtules\MultiPoliArray\MultiPoliArray\obj\Debug\MultiPoliArray.csproj.CoreCompileInputs.cache
+C:\Users\Fredy\Desktop\Clases Virtules\MultiPoliArray\MultiPoliArray\bin\Debug\MultiPoliArray.exe.config
+C:\Users\Fredy\Desktop\Clases Virtules\MultiPoliArray\MultiPoliArray\bin\Debug\MultiPoliArray.exe
+C:\Users\Fredy\Desktop\Clases Virtules\MultiPoliArray\MultiPoliArray\bin\Debug\MultiPoliArray.pdb
+C:\Users\Fredy\Desktop\Clases Virtules\MultiPoliArray\MultiPoliArray\obj\Debug\MultiPoliArray.exe
+C:\Users\Fredy\Desktop\Clases Virtules\MultiPoliArray\MultiPoliArray\obj\Debug\MultiPoliArray.pdb
